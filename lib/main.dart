@@ -59,21 +59,21 @@ final List<List<List<int>>> tetrominoShapes = [
 
 // Tetromino colors
 const List<Color> tetrominoColors = [
-  // Color.fromARGB(255, 94, 77, 244),
-  // Colors.blue,
-  // Colors.orange,
-  // Color.fromARGB(255, 220, 202, 37),
-  // Color.fromARGB(255, 45, 131, 48),
-  // Colors.purple,
-  // Colors.red,
+  Color.fromARGB(255, 94, 77, 244),
+  Colors.blue,
+  Colors.orange,
+  Color.fromARGB(255, 220, 202, 37),
+  Color.fromARGB(255, 45, 131, 48),
+  Colors.purple,
+  Colors.red,
   // alternate colors
-  Color.fromARGB(255, 244, 77, 169),
-  Color.fromARGB(255, 217, 7, 232),
-  Color.fromARGB(255, 238, 160, 184),
-  Color.fromARGB(255, 196, 3, 255),
-  Color.fromARGB(255, 218, 31, 105),
-  Color.fromARGB(255, 167, 120, 213),
-  Color.fromARGB(255, 100, 2, 153),
+  // Color.fromARGB(255, 244, 77, 169),
+  // Color.fromARGB(255, 217, 7, 232),
+  // Color.fromARGB(255, 238, 160, 184),
+  // Color.fromARGB(255, 196, 3, 255),
+  // Color.fromARGB(255, 218, 31, 105),
+  // Color.fromARGB(255, 167, 120, 213),
+  // Color.fromARGB(255, 100, 2, 153),
 ];
 
 class TetrisGame extends StatefulWidget {
